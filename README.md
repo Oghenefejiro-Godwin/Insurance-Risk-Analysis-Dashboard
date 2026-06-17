@@ -28,7 +28,7 @@ The dashboard is structured into two core views:
 ![asset_behavior](images/asset_behaviour_and_environmental_factors.png)
 
 * *Driver Risk Analysis* – focusing on demographic attributes such as age and marital status and how they influence claim behavior
-![driver_behavior](images\driver_behaviour_and_social_profiles.png)
+![driver_behavior](images/driver_behaviour_and_social_profiles.png)
 
 By combining these perspectives, the project reveals hidden patterns in insurance data and highlights the key drivers of high-risk policies.
 
@@ -109,7 +109,7 @@ This analysis was guided by key business questions commonly relevant to insuranc
 
 The analysis revealed a relationship between vehicle manufacturing year and claim risk. Several older vehicle models recorded higher average claim amounts compared to newer models, suggesting that vehicle age may be an important factor in insurance risk assessment.
 
-![Vehicle Year vs Claim Risk](images\car_year_vs_claim_risk.png)
+![Vehicle Year vs Claim Risk](images/car_year_vs_claim_risk.png)
 
 ---
 
@@ -117,7 +117,7 @@ The analysis revealed a relationship between vehicle manufacturing year and clai
 
 Vehicle make analysis showed that Ford and Chevrolet accounted for the highest total claim amounts within the dataset. Other notable contributors included Dodge, Toyota, and GMC, highlighting the importance of vehicle type in understanding claim trends.
 
-![Top 10 Car Makes](images\top_10_car_makes.png)
+![Top 10 Car Makes](images/top_10_car_makes.png)
 
 ---
 
@@ -125,7 +125,7 @@ Vehicle make analysis showed that Ford and Chevrolet accounted for the highest t
 
 Driver age emerged as a significant risk indicator. Policyholders under 25 years old generated the highest average claim amounts, indicating a stronger risk profile compared to older age groups.
 
-![Age Distribution Analysis](images\age_bin.png)
+![Age Distribution Analysis](images/age_bin.png)
 
 ---
 
@@ -133,7 +133,7 @@ Driver age emerged as a significant risk indicator. Policyholders under 25 years
 
 The analysis identified variations in claim amounts across marital status categories. Married policyholders recorded the highest average claim amount, while differences across other groups provided additional insight into customer risk profiles.
 
-![Marital Status Impact](images\marital_status_impact.png)
+![Marital Status Impact](images/marital_status_impact.png)
 
 ---
 
@@ -141,7 +141,7 @@ The analysis identified variations in claim amounts across marital status catego
 
 The findings demonstrate that insurance risk cannot be explained by a single factor. Vehicle characteristics and driver demographics work together to influence claim outcomes, emphasizing the need for a holistic approach to risk assessment.
 
-![KPI Overview](images\kpi.png)
+![KPI Overview](images/kpi.png)
 
 ---
 
@@ -149,7 +149,7 @@ The findings demonstrate that insurance risk cannot be explained by a single fac
 
 The dashboard allows users to dynamically explore relationships between driver and vehicle attributes through interactive filters and visualizations. This functionality supports deeper investigation of risk patterns and more informed decision-making.
 
-![Dashboard Interactivity](images\dashboard_interaction.png)
+![Dashboard Interactivity](images/dashboard_interaction.png)
 
 
 ## 🛠 Tools & Technologies Used
