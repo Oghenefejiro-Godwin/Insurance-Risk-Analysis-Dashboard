@@ -209,5 +209,5 @@ Potential enhancements include:
 Aspiring Data Analyst passionate about transforming data into actionable insights through analytics, visualization, and storytelling.
 
 * GitHub: [[github.com/Oghenefejiro-Godwin](https://github.com/Oghenefejiro-Godwin)]
-* LinkedIn: [[linkedin.com/in/oghenefejiro-ugbama](www.linkedin.com/in/oghenefejiro-ugbama-06b455230)]
+* LinkedIn: [[linkedin.com/in/oghenefejiro-ugbama](https://www.linkedin.com/in/oghenefejiro-ugbama-06b455230)]
 * Tableau Public: [[Oghenefejiro Ugbama](https://public.tableau.com/app/profile/oghenefejiro.ugbama/vizzes)]
