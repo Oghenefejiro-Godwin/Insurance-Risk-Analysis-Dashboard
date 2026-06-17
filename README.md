@@ -25,10 +25,10 @@ This dataset was used to identify patterns that influence insurance claim risk a
 The dashboard is structured into two core views:
 
 * *Asset Risk Analysis* – focusing on vehicle-related factors such as car make, model year, and associated risk patterns
-![asset_behaviour](images\asset_behaviour_and_environmental_factors.png)
+![asset_behavior](images/asset_behaviour_and_environmental_factors.png)
 
 * *Driver Risk Analysis* – focusing on demographic attributes such as age and marital status and how they influence claim behavior
-![driver_behaviour](images\driver_behaviour_and_social_profiles.png)
+![driver_behavior](./images/project_1_page_1.png)
 
 By combining these perspectives, the project reveals hidden patterns in insurance data and highlights the key drivers of high-risk policies.
 
