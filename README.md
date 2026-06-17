@@ -28,7 +28,7 @@ The dashboard is structured into two core views:
 ![asset_behavior](images\asset_behaviour_and_environmental_factors.png)
 
 * *Driver Risk Analysis* – focusing on demographic attributes such as age and marital status and how they influence claim behavior
-![driver_behavior]()
+![driver_behavior](images\driver_behaviour_and_social_profiles.png)
 
 By combining these perspectives, the project reveals hidden patterns in insurance data and highlights the key drivers of high-risk policies.
 
